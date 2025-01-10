@@ -1,2 +1,1 @@
-# INF582_Project-
-News Articles Title Generation
+# News Articles Title Generation
